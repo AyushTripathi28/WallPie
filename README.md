@@ -16,7 +16,6 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 
-![Screenshot](1.jpeg)
+<img src="1.jpeg" width=300 height=500>
 
-
-![Screenshot](2.jpeg)
+<img src="2.jpeg" width=300 height=500>
